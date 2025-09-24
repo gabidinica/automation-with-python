@@ -123,7 +123,7 @@ sorted_by_date = sorted(
 
 - The reverse=True parameter ensures the newest snapshots come first in the list.
 
-###  To delete snapshots, we’re gonna use: https://boto3.amazonaws.com/v1/documentation/api/latest/reference/services/ec2/client/delete_snapshot.html
+- To delete snapshots, we’re gonna use: https://boto3.amazonaws.com/v1/documentation/api/latest/reference/services/ec2/client/delete_snapshot.html
 
 ---
 
